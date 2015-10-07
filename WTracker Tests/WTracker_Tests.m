@@ -8,7 +8,11 @@
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
+<<<<<<< HEAD
 #import "WTracker.h"
+=======
+#import "WTracker/WTracker.h"
+>>>>>>> 099b5e73ceeebba11469492524bbbb116cb7dc50
 
 @interface WTracker_Tests : XCTestCase
 
